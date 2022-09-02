@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+credentials.ini
+usage.db
+tmp/*
+.venv
 # C extensions
 *.so
 

@@ -1,0 +1,10 @@
+attrs==21.4.0
+cattrs==22.1.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+exceptiongroup==1.0.0rc4
+idna==3.3
+looker-sdk==22.4.0
+requests==2.27.1
+typing-extensions==4.2.0
+urllib3==1.26.9
