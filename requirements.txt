@@ -1,6 +1,6 @@
 attrs==21.4.0
 cattrs==22.1.0
-certifi==2021.10.8
+certifi==2023.7.22
 charset-normalizer==2.0.12
 exceptiongroup==1.0.0rc4
 idna==3.3
