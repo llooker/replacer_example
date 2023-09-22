@@ -5,6 +5,6 @@ charset-normalizer==2.0.12
 exceptiongroup==1.0.0rc4
 idna==3.3
 looker-sdk==22.4.0
-requests==2.27.1
+requests==2.31.0
 typing-extensions==4.2.0
 urllib3==1.26.9
